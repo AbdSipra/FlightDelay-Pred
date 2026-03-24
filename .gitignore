@@ -1,0 +1,14 @@
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+.DS_Store
+Thumbs.db
+venv/
+.env
+train_.csv
+train_merged.csv
+test_.csv
+test_merged.csv
+weather.csv
+~$*.xlsx
+~$*.docx
